@@ -11,7 +11,7 @@
 
 # Byte-compiled / optimized / DLL files / Cache
 __pycache__/
-test_package/__pycache__/
+test_package/__py
 test_package/build/
 build/
 *.pyc
